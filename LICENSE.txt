@@ -1,0 +1,37 @@
+Proprietary License Agreement
+
+Copyright (c) 2024 Joseph L Daigle. All rights reserved.
+Contact: josephldaigle@yahoo.com
+
+Permission is hereby granted to Joseph L Daigle's clients and authorized licensees ("Authorized Users") to use, modify, and distribute this software under the following terms and conditions:
+
+1. **Authorized Use**:
+   - This software may only be used by Authorized Users for commercial purposes with explicit written permission or under a paid license agreement.
+   - Non-commercial use is strictly prohibited except by Joseph L Daigle or Authorized Users.
+
+2. **Modifications**:
+   - Authorized Users may modify the software for their own use but must communicate such modifications to Joseph L Daigle.
+   - All modified versions must include prominent attribution stating they are derivative works based on this software.
+
+3. **Redistribution**:
+   - Redistribution of this software in any form is strictly prohibited.
+
+4. **Prohibitions**:
+   - Reverse-engineering, decompiling, or any method of examining the source code for unauthorized purposes is strictly prohibited.
+
+5. **Liability Disclaimer**:
+   - This software is provided "AS IS" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+   - Joseph L Daigle shall not be held liable for any errors, damages, or losses resulting from the use of this software.
+   - No warranty is provided for security or protection against hacking risks. These responsibilities lie with the site's hosting provider.
+
+6. **Branding**:
+   - The copyright notice must remain intact in the footer of any implementation of this software.
+
+7. **License Scope**:
+   - This license applies globally and is perpetual.
+
+8. **Enforcement**:
+   - Violations of this license agreement may result in termination of rights and/or legal action at the discretion of Joseph L Daigle.
+   - Enforcement will be conducted reasonably, with an expectation of adherence to an honor system.
+
+For inquiries regarding licensing, please contact Joseph L Daigle at josephldaigle@yahoo.com.
