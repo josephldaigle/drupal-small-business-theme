@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * Implements hook_theme_enable().
+ *
+ * This function is triggered when the theme is enabled.
+ */
+function small_business_theme_theme_enable($theme) {
+  // Check if the enabled theme matches this theme.
+  if ($theme !== 'small_business_theme') {
+    return;
+  }
+
+  // Example: Log a message when the theme is enabled.
+  \Drupal::logger('small_business_theme')->info('The Small Business Theme has been enabled.');
+
+  // Example: Trigger a Drush command (if desired).
+  // This assumes a custom Drush command is implemented.
+  // \Drupal::service('drush.command')->call(['sbt:install-assets']);
+}

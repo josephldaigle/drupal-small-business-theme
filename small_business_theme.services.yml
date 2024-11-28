@@ -1,0 +1,5 @@
+services:
+  small_business_theme.commands:
+    class: Drupal\small_business_theme\Commands\SmbThemeDrushCommands
+    tags:
+      - { name: drush.command }
