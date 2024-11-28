@@ -1,3 +1,28 @@
+# Node.js
 node_modules/
-*.map
-*.sass-cache/
+npm-debug.log*
+
+# Tailwind CSS
+*.css.map
+src/tailwind.css
+
+# PostCSS
+.postcssrc
+.postcssrc.json
+.postcssrc.js
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml

@@ -1,0 +1,19 @@
+{
+  "name": "small-business-theme",
+  "version": "1.0.0",
+  "description": "A lightweight, customizable Drupal theme designed for small business websites, optimized for lead generation and conversion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "postcss src/tailwind.css -o css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.15"
+  }
+}
